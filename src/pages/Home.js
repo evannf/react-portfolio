@@ -12,7 +12,7 @@ function Home() {
         <h2>Hi, My Name is Evann</h2>
         <div className='prompt'> 
           <p>
-            An aspiring software developer looking to expand my knowldge and further my career.
+            An aspiring software developer looking to expand my knowledge (hi Daniel 🫶🏻) and further my career.
           </p>
           <a href='https://www.linkedin.com/in/evann-fries/'>
           <LinkedInIcon/>
