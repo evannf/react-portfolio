@@ -26,3 +26,9 @@
     font-size: 60px;
     color: #3e497a;
   }
+
+  .projectDesc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }

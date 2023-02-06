@@ -8,11 +8,16 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'>
-        <LinkedInIcon />
-        <GitHubIcon />
+        <a href='https://www.linkedin.com/in/evann-fries/'>
+          <LinkedInIcon/>
+          </a>
+          <a href='https://github.com/evannf'>
+          <GitHubIcon />
+          </a>
+        </div>
             <p> &copy; 2022 Evann Fries</p>
         </div>
-    </div>
+
   )
 }
 
