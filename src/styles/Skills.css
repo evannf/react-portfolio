@@ -8,9 +8,13 @@
   }
   
   .skills h1 {
-    color: #3e497a;
+    color: #f6b02dd1;
   }
   
+  .skills h2{
+    color: #6F59B8;
+  }
+
   .skills .list {
     list-style: none;
     width: 60%;

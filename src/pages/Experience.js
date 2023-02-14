@@ -8,11 +8,11 @@ import '../styles/Experience.css'
 function Experience() {
   return (
     <div className='experience'>
-      <VerticalTimeline lineColor='#3e497a'>
+      <VerticalTimeline lineColor='#8D98A7'>
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
           date='2008-2012'
-          iconStyle={{background: '#3e497a', color:'#fff'}}
+          iconStyle={{background: '#6F59B8', color:'#f6b02d'}}
           icon={<SchoolIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
@@ -23,7 +23,7 @@ function Experience() {
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
           date='2013-2014'
-          iconStyle={{background: '#3e497a', color:'#fff'}}
+          iconStyle={{background: '#6F59B8', color:'#f6b02d'}}
           icon={<SchoolIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
@@ -34,7 +34,7 @@ function Experience() {
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
           date='2014-2018'
-          iconStyle={{background: 'teal', color:'#fff'}}
+          iconStyle={{background: '#f6b02d', color:'#6F59B8'}}
           icon={<WorkIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
@@ -45,7 +45,7 @@ function Experience() {
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
           date='2018-2022'
-          iconStyle={{background: 'teal', color:'#fff'}}
+          iconStyle={{background: '#f6b02d', color:'#6F59B8'}}
           icon={<WorkIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
@@ -56,7 +56,7 @@ function Experience() {
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
           date='2022'
-          iconStyle={{background: '#3e497a', color:'#fff'}}
+          iconStyle={{background: '#6F59B8', color:'#f6b02d'}}
           icon={<SchoolIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
