@@ -36,7 +36,7 @@ export const projectList = [
         desc: "A database platform cataloging the villains from the show The Venture Bros",
         image: GCI,
         skill: "Express, EJS, JavaScript, CSS",
-        link: "",
+        link: "https://gci-villains-database-ievf3.ondigitalocean.app/",
         github: "https://github.com/evannf/GCI_Villain_Database"
     },
     {
