@@ -9,6 +9,7 @@ import GCI from '../assets/GCI-Database.png'
 export const projectList = [
     {
         name: "Success+Dress",
+        desc: "Mock E-Commerce Website",
         image: SDHome,
         skill: "React, CSS, Strapi",
         link: "https://success-dress.net/",
@@ -16,6 +17,7 @@ export const projectList = [
     },
     {
         name: "Tamagotchi Project",
+        desc: "An app where you take care of a bunny!",
         image: Proj1,
         skill: "HTML, CSS, JavaScript",
         link: "https://bunnigatchi.netlify.app/",
@@ -23,20 +25,23 @@ export const projectList = [
     },
     {
         name: "Tug of Words game",
+        desc: "Take turns with a friend to unscramble words and defeat the machine!",
         image: Proj2,
         skill: "HTML, CSS, JavaScript",
         link: "https://tugofwords.netlify.app",
         github: "https://github.com/evannf/Tug-of-Words"
     },
     {
-        name: "GCI Villains Database (not currently deployed)",
+        name: "GCI Villains Database",
+        desc: "A database platform cataloging the villains from the show The Venture Bros",
         image: GCI,
         skill: "Express, EJS, JavaScript, CSS",
         link: "",
         github: "https://github.com/evannf/GCI_Villain_Database"
     },
     {
-        name: "Capstone Project (not currently deployed)",
+        name: "Social Meatia",
+        desc: "Mock social media app (not currently deployed)",
         image: SocialMetia,
         skill: "React, Express, CSS, JavaScript",
         link: "",
