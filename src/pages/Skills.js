@@ -8,7 +8,7 @@ function Skills() {
         <ol className='list'>
           <li className='item'>
             <h2> Languages </h2>
-            <span> JavaScript, Python, HTML, CSS, EJS, Typescript </span>
+            <span> JavaScript, HTML, CSS, SASS, Python, EJS, Typescript </span>
           </li>
           <li className='item'>
             <h2> Libraries and Frameworks </h2>
