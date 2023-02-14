@@ -16,7 +16,7 @@ function Skills() {
           </li>
           <li className='item'>
             <h2> Databases/Other </h2>
-            <span> MongoDB, Strapi, MySQL, PostgreSQL, Git, Postman, Debugging </span>
+            <span> MongoDB, Strapi, MySQL, PostgreSQL, Git, Netlify, Hostinger, DigitalOcean, Postman, Debugging </span>
           </li>
         </ol>
       </div>
