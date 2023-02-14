@@ -9,10 +9,11 @@ function Home() {
   return (
     <div className='home'>
       <div className='about'>
-        <h2>Hi, My Name is Evann</h2>
+        <h2>FUN In The Front-End</h2>
+        <h2>Business In The Back</h2>
         <div className='prompt'> 
           <p>
-            An aspiring software developer looking to expand my knowledge and further my career.
+          My name is Evann, and I'm aspiring software developer looking to create or improve your web apps!
           </p>
           <a href='https://www.linkedin.com/in/evann-fries/'>
           <LinkedInIcon/>
@@ -25,7 +26,7 @@ function Home() {
           </a>
         </div>
       </div> 
-      <div className='skills'> 
+      {/* <div className='skills'> 
         <h1>Skills</h1> 
         <ol className='list'>
           <li className='item'>
@@ -41,7 +42,7 @@ function Home() {
             <span> MongoDB, Strapi, MySQL, PostgreSQL, Git, Postman, Debugging </span>
           </li>
         </ol>
-      </div>
+      </div> */}
       
     </div>
   )

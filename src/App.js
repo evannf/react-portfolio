@@ -18,7 +18,7 @@ function App() {
           <Route path='/experience' element={<Experience />} />
           <Route path='/project/:id' element={<ProjectDisplay />} />
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
       </Router>
     </div>
   )

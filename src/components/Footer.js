@@ -7,14 +7,14 @@ import '../styles/Footer.css'
 function Footer() {
   return (
     <div className='footer'>
-        <div className='socialMedia'>
+        {/* <div className='socialMedia'>
         <a href='https://www.linkedin.com/in/evann-fries/'>
           <LinkedInIcon/>
           </a>
           <a href='https://github.com/evannf'>
           <GitHubIcon />
-          </a>
-        </div>
+          </a> */}
+        {/* </div> */}
             <p> &copy; 2022 Evann Fries</p>
         </div>
 
