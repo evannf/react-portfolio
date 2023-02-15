@@ -14,7 +14,7 @@ function Home() {
         <h2>Business In The Back</h2>
         <div className='prompt'> 
           <p>
-          My name is Evann, and I'm aspiring software developer looking to create or improve your web apps!
+          My name is Evann, and I'm an aspiring software developer looking to create or improve your web apps!
           </p>
           <div className='icons'>
           <a href='https://www.linkedin.com/in/evann-fries/'>
