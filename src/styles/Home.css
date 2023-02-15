@@ -3,7 +3,8 @@
     align-items: center;
     font-family: "Arial", sans-serif;
     color: #3e497a;
-  }
+    overflow: auto;
+    }
   
   .about {
     width: 100%;
