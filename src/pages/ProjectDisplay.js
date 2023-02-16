@@ -19,9 +19,9 @@ function ProjectDisplay() {
             {/* <a href={project.link}>
               Deployed Site
             </a> */}
-        </p>
+        </p> 
           <a href={project.github}>
-          <GitHubIcon />
+            Github Repo
           </a>
         </div>
     </div>
