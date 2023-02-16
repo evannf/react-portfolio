@@ -4,6 +4,7 @@ import SDHome from '../assets/SD-home.png';
 // import Proj3 from '../assets/Proj3.jpg';
 // import Proj4 from '../assets/Proj4.jpg';
 import SocialMetia from '../assets/Soical-Meatia.png'
+import PPBB from "../assets/PP-DB.png"
 import GCI from '../assets/GCI-Database.png'
 
 export const projectList = [
@@ -11,7 +12,7 @@ export const projectList = [
         name: "Success+Dress",
         desc: "Mock e-commerce website for business attire",
         image: SDHome,
-        skill: "React, CSS, Strapi",
+        skill: "React.js, SASS, Axios, React Router, Strapi",
         link: "https://success-dress.net/",
         github: "https://github.com/evannf/shopping-app"
     },
@@ -19,7 +20,7 @@ export const projectList = [
         name: "GCI Villains Database",
         desc: "A database platform cataloging villains from the show The Venture Bros",
         image: GCI,
-        skill: "Express, EJS, JavaScript, CSS",
+        skill: "JavaScript, CSS, Express, EJS, MongoDB, Mongoose",
         link: "https://gci-villains-database-ievf3.ondigitalocean.app/",
         github: "https://github.com/evannf/GCI_Villain_Database"
     },
@@ -27,7 +28,7 @@ export const projectList = [
         name: "Social Meatia",
         desc: "Mock social media app based on meat",
         image: SocialMetia,
-        skill: "React, Express, CSS, JavaScript",
+        skill: "React.js, CSS, Express, Bcrypt, CORS, Dotenv, Axios, MongoDB, Mongoose",
         link: "",
         github: "https://github.com/evannf/capstone_frontend"
     },
@@ -46,6 +47,14 @@ export const projectList = [
         skill: "HTML, CSS, JavaScript",
         link: "https://bunnigatchi.netlify.app/",
         github: "https://github.com/evannf/tamagotchi-project-"
+    },
+    {
+        name: "Potted Pals",
+        desc: "Backend API service for a group project",
+        image: PPBB,
+        skill: "Node, MongoDB, Mongoose, Express",
+        link: "",
+        github: "https://github.com/evannf/pottedpals-backend"
     }
 
 ]
