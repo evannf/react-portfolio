@@ -5,13 +5,16 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    position: static;
+    overflow: auto;
+    margin-top: 2%;
   }
   
   .project h1 {
-    margin-top: 50px;
+    /* margin-top: 50px; */
     color: #f6b02dd1;;
     font-size: 45px;
-    position: relative;
+    /* position:static; */
   }
   .project img {
     width: 700px;
