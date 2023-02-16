@@ -11,25 +11,25 @@ function Experience() {
       <VerticalTimeline lineColor='#8D98A7'>
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
-          date='2008-2012'
+          date='Spring 2012'
           iconStyle={{background: '#6F59B8', color:'#f6b02d'}}
           icon={<SchoolIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
-              O'Fallon Township High School, O'Fallon, IL 
+             Graduted High School 
             </h3>
-            <p>High School Diploma</p>
+            <p>I graduated from O'Fallon Township High School, where I was a part of the German and Photography clubs.</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
-          date='2013-2014'
+          date='Fall 2013'
           iconStyle={{background: '#6F59B8', color:'#f6b02d'}}
           icon={<SchoolIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
-              Southwestern Illinois College 
+              Started College
             </h3>
-            <p>Completed some classes towards a degree in Marketing</p>
+            <p>Exploring new career options, I took class in marketing, creative writing, and electrical engineering. All of these piqued my interest in different ways, but eagerness to join the workfoce lead me elsewhere.</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
@@ -38,9 +38,9 @@ function Experience() {
           icon={<WorkIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
-              Entered workforce
+              Odds Jobs
             </h3>
-            <p>Worked several roles including service, management, and machine operating</p>
+            <p>Worked several roles in the area providing customer service, managing a small team of employees, and operating heavy machinery like tractors and pallet jacks.</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
@@ -49,9 +49,9 @@ function Experience() {
           icon={<WorkIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
-              Commercial Driving Career
+              A New Office: The Road
             </h3>
-            <p>Obtained Class A CDL and worked as a commercial driver. Operated in both residential and business environments</p>
+            <p>After obtaining my class A commercial driving license, I began making deliveries in both a residential and commercial setting. I maintained a tight schedule making deliveries on time while observing all rules of the road.</p>
         </VerticalTimelineElement>
         <VerticalTimelineElement 
           className='vertical-timeline-element--education'
@@ -60,9 +60,9 @@ function Experience() {
           icon={<SchoolIcon />}
           >
             <h3 className='vertical-timeline-element-title'>
-              Full-Stack Bootcamp
+              Gradutaed Boot Camp!
             </h3>
-            <p>Completed a full-stack web development bootcamp through General Assembly</p>
+            <p>After finally deciding it was time for a permanent career change, I attended General Assembly's Full Stack Immersive bootcamp. Here I took courses on popular web technologies such as HTML, CSS, and Javascript, storage platforms, and front-end frameworks. </p>
         </VerticalTimelineElement>
 
       </VerticalTimeline>
