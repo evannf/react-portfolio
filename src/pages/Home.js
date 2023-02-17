@@ -10,7 +10,12 @@ function Home() {
   return (
     <div className='home'>
       <div className='about'>
-        <h2><span className='fun'>Fun</span> In The Front-End,</h2>
+        <h2>
+          <span className='fun'>
+            <span className='F'>F</span>
+            <span className='U'>U</span>
+            <span className='N'>N</span>
+          </span> In The Front-End,</h2>
         <h2>Business In The Back</h2>
         <div className='prompt'> 
           <p>

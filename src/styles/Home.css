@@ -47,22 +47,43 @@
     margin: 10px;
   }
 
-.fun{
-  animation-name: bounce; 
-  animation-duration: 0.5s;
-  animation-direction: alternate;
-  animation-timing-function: cubic-bezier(0.95, 0.05, 0.795, 0.035);
-  animation-iteration-count: infinite;
+  .fun{
+    position: relative;
   }
 
-@keyframes bounce {
-  from { 
-    transform: translateY(0) scale(1);
+  /* .fun span{
+    position:relative;
+    display: inline-block;
+    animation: animate 1s ease-in-out infinite;
+  } */
+  .F{
+    position:relative;
+    display: inline-block;
+    animation: animate 1.2s ease-in-out infinite;
   }
-  to { 
-    transform: translateY(var(1)) scale(1, 0.7);
+  .U{
+    position:relative;
+    display: inline-block;
+    animation: animate 1.2s ease-in-out infinite;
+    animation-delay: .4s;
   }
- } 
+  .N{
+    position:relative;
+    display: inline-block;
+    animation: animate 1.2s ease-in-out infinite;
+    animation-delay: .8s;
+  }
+  @keyframes animate {
+    0%{
+      transform: translateY(0px);
+    }
+    20%{
+      transform: translateY(-8px);
+    }
+    40%,100%{
+      transform: translateY(0px);
+    }
+  }
   
   @media only screen and (max-width: 600px) {
     .about h2 {
