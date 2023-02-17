@@ -62,7 +62,7 @@ function Experience() {
             <h3 className='vertical-timeline-element-title'>
               Gradutaed Boot Camp!
             </h3>
-            <p>After finally deciding it was time for a permanent career change, I attended General Assembly's Full Stack Immersive bootcamp. Here I took courses on popular web technologies such as HTML, CSS, and Javascript, storage platforms, and front-end frameworks. </p>
+            <p>After finally deciding it was time for a permanent career change, I attended General Assembly's Full Stack Immersive bootcamp. Here I took courses on popular web technologies &#40;such as HTML, CSS, and Javascript&#41;, storage platforms, and front-end frameworks. </p>
         </VerticalTimelineElement>
 
       </VerticalTimeline>
