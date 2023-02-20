@@ -34,7 +34,7 @@ export const projectList = [
     },
     {
         name: "Tug of Words game",
-        desc: "Take turns with a friend to unscramble words and defeat the machine!",
+        desc: "Take turns with a friend to unscramble words and defeat the machine",
         image: Proj2,
         skill: "HTML, CSS, JavaScript",
         link: "https://tugofwords.netlify.app",
@@ -42,7 +42,7 @@ export const projectList = [
     },
     {
         name: "Tamagotchi Project",
-        desc: "An app where you take care of a bunny!",
+        desc: "An app where you take care of a bunny",
         image: Proj1,
         skill: "HTML, CSS, JavaScript",
         link: "https://bunnigatchi.netlify.app/",
