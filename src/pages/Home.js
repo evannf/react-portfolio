@@ -15,7 +15,8 @@ function Home() {
             <span className='in'>In&nbsp;</span>
             <span className='the'>The&nbsp;</span>
             <span className='front'>Front</span>
-            <span className='end'>-End</span>
+            <span className='dash'>-</span>
+            <span className='end'>End</span>
         </h2>
         <h2>Business In The Back</h2>
         <div className='prompt'> 

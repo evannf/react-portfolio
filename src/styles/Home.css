@@ -47,34 +47,25 @@
     margin: 10px;
   }
 
-  .fun{
+  .fun, .in, .the, .front, .end, .dash{
     position:relative;
     display: inline-block;
-    animation: animate 1.2s ease-in-out infinite;
+    animation: animate 1.4s ease-in-out infinite;
   }
   .in{
-    position:relative;
-    display: inline-block;
-    animation: animate 1.2s ease-in-out infinite;
     animation-delay: .2s;
   }
   .the{
-    position:relative;
-    display: inline-block;
-    animation: animate 1.2s ease-in-out infinite;
     animation-delay: .4s;
   }
   .front{
-    position:relative;
-    display: inline-block;
-    animation: animate 1.2s ease-in-out infinite;
     animation-delay: .6s;
   }
-  .end{
-    position:relative;
-    display: inline-block;
-    animation: animate 1.2s ease-in-out infinite;
+  .dash{
     animation-delay: .8s;
+  }
+  .end{
+    animation-delay: 1s;
   }
   @keyframes animate {
     0%{
