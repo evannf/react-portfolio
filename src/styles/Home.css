@@ -47,27 +47,39 @@
     margin: 10px;
   }
 
-  .fun{
+  /* .animated{
     position: relative;
-  }
+  } */
 
   /* .fun span{
     position:relative;
     display: inline-block;
     animation: animate 1s ease-in-out infinite;
   } */
-  .F{
+  .fun{
     position:relative;
     display: inline-block;
     animation: animate 1.2s ease-in-out infinite;
   }
-  .U{
+  .in{
+    position:relative;
+    display: inline-block;
+    animation: animate 1.2s ease-in-out infinite;
+    animation-delay: .2s;
+  }
+  .the{
     position:relative;
     display: inline-block;
     animation: animate 1.2s ease-in-out infinite;
     animation-delay: .4s;
   }
-  .N{
+  .front{
+    position:relative;
+    display: inline-block;
+    animation: animate 1.2s ease-in-out infinite;
+    animation-delay: .6s;
+  }
+  .end{
     position:relative;
     display: inline-block;
     animation: animate 1.2s ease-in-out infinite;

@@ -11,11 +11,14 @@ function Home() {
     <div className='home'>
       <div className='about'>
         <h2>
-          <span className='fun'>
-            <span className='F'>F</span>
-            <span className='U'>U</span>
-            <span className='N'>N</span>
-          </span> In The Front-End,</h2>
+          <span className='animated'>
+            <span className='fun'>Fun&nbsp;</span>
+            <span className='in'>In&nbsp;</span>
+            <span className='the'>The&nbsp;</span>
+            <span className='front'>Front</span>
+            <span className='end'>-End</span>
+          </span>
+        </h2>
         <h2>Business In The Back</h2>
         <div className='prompt'> 
           <p>
