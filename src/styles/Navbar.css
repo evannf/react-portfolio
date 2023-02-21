@@ -13,6 +13,11 @@
     justify-content: center;
     color: #1F2041;
   }
+
+  .link{
+    padding-left:10px;
+    padding-right: 10px;
+  }
   
   .navbar a {
     color: #1F2041;
