@@ -17,7 +17,6 @@
     text-align: center;
     background-color: #1F2041;
     color: #8D98A7;
-    margin-top: 6%;
   }
   
   .about h2 {
@@ -67,6 +66,23 @@
   .end{
     animation-delay: 1s;
   }
+
+  .news{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 40px;
+    color: white;
+  }
+  .news span{
+    border: 1px solid orange;
+    padding: 10px;
+  }
+  .news a{
+    color: orange;
+  }
+
   @keyframes animate {
     0%{
       transform: translateY(0px);

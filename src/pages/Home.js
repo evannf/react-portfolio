@@ -9,6 +9,9 @@ import 'animate.css'
 function Home() {
   return (
     <div className='home'>
+    <div className='news'>
+      <span>This is old news...Check out my new portfolio <a href='https://evann-codes.netlify.app/'>HERE!</a></span>
+    </div>
       <div className='about'>
         <h2>
             <span className='fun'>Fun&nbsp;</span>
